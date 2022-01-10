@@ -1,0 +1,28 @@
+table,td,th{
+    border: 2px solid teal;
+  }
+  tr:nth-child(even) {background-color: lightblue;
+  }
+  .center{
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  th{
+    background-color:orange;
+  }
+  tr:hover{
+  background-color:purple;
+  opacity:0.8;
+  }
+  section{
+    text-align:center;
+    font-family:monospace;
+  }
+  body{
+    background-color:beige;
+  }
+  .tag{
+    background-color:green;
+    opacity:0.8;
+  }
